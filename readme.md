@@ -1,1 +1,1 @@
-sample node express app usign the paypal-sdk
+node express app sample paypal-sdk
